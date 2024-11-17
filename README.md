@@ -19,9 +19,9 @@ Here are some of my key projects:
 
 | **Project**                 | **Description**                                | **Live Demo**                                                                                     |  
 |-----------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------|  
-| 🛒 **Shopping Cart App**     | A sleek app for managing your shopping cart.  | [Live Demo]([https://github.com/juan-gomez/shopping-cart-app](https://guitarla-vue.vercel.app/))  |  
-| 💰 **Expense Manager**       | A web app for tracking personal expenses.     | [Live Demp]([https://github.com/juan-gomez/expense-manager](https://admin-gastos-vue-three.vercel.app/))|  
-| 🐾 **Veterinary Manager**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)                                          |  
+| 🛒 **Shopping Cart App**     | A sleek app for managing your shopping cart.  | [Live Demo]([https://github.com/juan-gomez/shopping-cart-app](https://guitarla-vue.vercel.app/)) |  
+| 💰 **Expense Manager**       | A web app for tracking personal expenses.     | [Live Demo]([https://github.com/juan-gomez/expense-manager](https://admin-gastos-vue-three.vercel.app/)) |  
+| 🐾 **Veterinary Manager**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/) |  
 
 ---
 
