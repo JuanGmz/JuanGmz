@@ -18,10 +18,11 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves craft
 Here are some of my key projects:  
 
 | **Project**                          | **Description**                               | **Live Demo**                                            |  
-|--------------------------------------|-----------------------------------------------|-----------------------------------------------------------|  
-| 🛒 **Shopping Cart App (VueJs)**     | A sleek app for managing your shopping cart.  | [Live Demo](https://guitarla-vue.vercel.app/)            |  
-| 🐾 **Veterinary Manager (VueJs)**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/) |  
-| 💰 **Expense Manager (VueJs)**       | A web app for tracking personal expenses.     | [Live Demo](https://admin-gastos-vue-three.vercel.app/)  |  
+|--------------------------------------|-----------------------------------------------|---------------------------------------------------------|  
+| 🛒 **Shopping Cart App (VueJs)**     | A sleek app for managing your shopping cart.  | [Live Demo](https://guitarla-vue.vercel.app/)           |  
+| 🐾 **Veterinary Manager (VueJs)**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)|  
+| 💰 **Expense Manager (VueJs)**       | A web app for tracking personal expenses.     | [Live Demo](https://admin-gastos-vue-three.vercel.app/) |  
+| 💹 **Crypto Manager (VueJs)**        | An app to track cryptocurrency prices.        | [Live Demo](https://crypto-vue-six-app.vercel.app/)     |  
 
 ---
 
