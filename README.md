@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Gomez!
 
-<!--
-**JuanGmz/JuanGmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a passionate web developer specializing in modern frameworks and tools like VuejS, AdonisJs, and Laravel.  
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- 🛒 [Shopping Cart App](https://github.com/juan-gomez/shopping-cart-app)  
+- 💰 [Expense Manager](https://github.com/juan-gomez/expense-manager)  
+- 🐾 [Veterinary Patient Manager](https://admin-pacientes-vue-ten.vercel.app/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- Frontend: Vue, React, JavaScript, HTML, CSS
+- Backend: Laravel, AdonisJS  
+- Databases: MySQL, PostgreSQL
+
+## 🌐 Connect with Me  
+- [Portfolio](...) (Soon)  
+- [LinkedIn]([https://www.linkedin.com/in/juan-gomez](https://www.linkedin.com/in/juan-g%C3%B3mez-546a62216/))  
