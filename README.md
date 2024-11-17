@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves craft
 
 ## 🚀 About Me  
 💻 I specialize in building robust applications using:  
-- **Frontend frameworks:** Vue.js, React  
+- **Frontend frameworks:** Vue.js  
 - **Backend technologies:** Laravel, AdonisJS  
 - **Databases:** MySQL, PostgreSQL  
 
@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves craft
 ## 🌟 Featured Projects  
 Here are some of my key projects:  
 
-| **Project**                 | **Description**                                | **Live Demo**                                                                                       |  
+| **Project**                 | **Description**                                | **Live Demo**                                                                                     |  
 |-----------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------|  
-| 🛒 **Shopping Cart App**     | A sleek app for managing your shopping cart.  | [View on GitHub](https://github.com/juan-gomez/shopping-cart-app)                                  |  
-| 💰 **Expense Manager**       | A web app for tracking personal expenses.     | [View on GitHub](https://github.com/juan-gomez/expense-manager)                                   |  
-| 🐾 **Veterinary Manager**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)                                           |  
+| 🛒 **Shopping Cart App**     | A sleek app for managing your shopping cart.  | [Live Demo]([https://github.com/juan-gomez/shopping-cart-app](https://guitarla-vue.vercel.app/))  |  
+| 💰 **Expense Manager**       | A web app for tracking personal expenses.     | [Live Demp]([https://github.com/juan-gomez/expense-manager](https://admin-gastos-vue-three.vercel.app/))|  
+| 🐾 **Veterinary Manager**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)                                          |  
 
 ---
 
