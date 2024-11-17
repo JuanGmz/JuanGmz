@@ -22,7 +22,7 @@ Here are some of my key projects:
 | 🛒 **Shopping Cart App (VueJs)**     | A sleek app for managing your shopping cart.  | [Live Demo](https://guitarla-vue.vercel.app/)           |  
 | 🐾 **Veterinary Manager (VueJs)**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)|  
 | 💰 **Expense Manager (VueJs)**       | A web app for tracking personal expenses.     | [Live Demo](https://admin-gastos-vue-three.vercel.app/) |  
-| 💹 **Crypto Manager (VueJs)**        | An app to track cryptocurrency prices.        | [Live Demo](https://cripto-vue-six-app.vercel.app/)     |  
+| 💹 **Crypto Manager (VueJs)**        | An app to track cryptocurrency prices.        | [Live Demo](https://cripto-vue-six.vercel.app/)     |  
 
 ---
 
