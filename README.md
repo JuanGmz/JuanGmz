@@ -44,7 +44,7 @@ Here are some of the technologies I work with:
 ## 🌐 Connect with Me  
 🤝 Feel free to reach out or connect with me on:  
 - 🌍 **Portfolio:** Coming soon!  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/juan-g%C3%B3mez-546a62216/)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/juan-alfredo-gomez)  
 
 ---
 
