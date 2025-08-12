@@ -4,23 +4,6 @@
   Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> who loves crafting modern and efficient web applications.  
   <br><br>
   ---
-  <br><br>
-  ## 🚀 About Me  
-  💻 I specialize in building robust applications using:  
-  <br>
-  - <strong>Frontend frameworks:</strong> Vue.js  
-  <br>
-  - <strong>Backend technologies:</strong> Laravel, AdonisJS  
-  <br>
-  - <strong>Databases:</strong> MySQL, PostgreSQL  
-  <br><br>
-  🌱 I'm always eager to learn new tools and technologies to improve my skills!  
-  <br><br>
-  ---
-  <br><br>
-  ## 🌟 Featured Projects  
-  Here are some of my key projects:  
-  <br><br>
 </p>
 
 ## 🛠️ Skills  
