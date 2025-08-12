@@ -1,5 +1,5 @@
 <p align="center">
-  # 👋 Hi, I'm Juan Gomez!  
+  👋 Hi, I'm Juan Gomez!  
   <br><br>
   Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> who loves crafting modern and efficient web applications.  
   <br><br>
