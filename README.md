@@ -104,11 +104,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanGmz&locale=en&layout=compact&langs_count=5&theme=dark" alt="Top Languages" height="150" />
   <img src="https://streak-stats.demolab.com?user=JuanGmz&locale=en&mode=daily&theme=dracula&border_radius=5" alt="GitHub Streak" height="150" />
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph.svg" />
-</picture>
