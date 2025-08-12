@@ -1,9 +1,38 @@
-<p align="center"># 👋 Hi, I'm Juan Gomez!  <br><br>Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves crafting modern and efficient web applications.  <br><br>---<br><br>## 🚀 About Me  <br>💻 I specialize in building robust applications using:  <br>- **Frontend frameworks:** Vue.js  <br>- **Backend technologies:** Laravel, AdonisJS  <br>- **Databases:** MySQL, PostgreSQL  <br><br>🌱 I'm always eager to learn new tools and technologies to improve my skills!  <br><br>---<br><br>## 🌟 Featured Projects  <br>Here are some of my key projects:  <br><br>| **Project**                          | **Description**                               | **Live Demo**                                            |  <br>|--------------------------------------|-----------------------------------------------|---------------------------------------------------------|  <br>| 🛒 **Shopping Cart App (VueJs)**     | A sleek app for managing your shopping cart.  | [Live Demo](https://guitarla-vue.vercel.app/)           |  <br>| 🐾 **Veterinary Manager (VueJs)**    | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)|  <br>| 💰 **Expense Manager (VueJs)**       | A web app for tracking personal expenses.     | [Live Demo](https://admin-gastos-vue-three.vercel.app/) |  <br>| 💹 **Crypto Manager (VueJs)**        | An app to track cryptocurrency prices.        | [Live Demo](https://cripto-vue-six.vercel.app/)     |  <br><br>---<br><br>## 🛠️ Skills  <br>Here are some of the technologies I work with:  <br><br>
-### **Frontend**  <br>- 🎨 Vue.js, React  <br>- ✍️ HTML5, CSS3, JavaScript  <br><br>
-### **Backend**  <br>- 🚀 Laravel, AdonisJS  <br><br>
-### **Databases**  <br>- 🗄️ MySQL, PostgreSQL  <br><br>---<br><br>## 🌐 Connect with Me  <br>🤝 Feel free to reach out or connect with me on:  <br>- 🌍 **Portfolio:** Coming soon!  <br>- 💼 [**LinkedIn**](https://www.linkedin.com/in/juan-alfredo-gomez)  <br><br>---<br><br>⭐ Thanks for stopping by!  <br>💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House</p>
+<p align="center">
+  # 👋 Hi, I'm Juan Gomez!  
+  <br><br>
+  Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> who loves crafting modern and efficient web applications.  
+  <br><br>
+  ---
+  <br><br>
+  ## 🚀 About Me  
+  💻 I specialize in building robust applications using:  
+  <br>
+  - <strong>Frontend frameworks:</strong> Vue.js  
+  <br>
+  - <strong>Backend technologies:</strong> Laravel, AdonisJS  
+  <br>
+  - <strong>Databases:</strong> MySQL, PostgreSQL  
+  <br><br>
+  🌱 I'm always eager to learn new tools and technologies to improve my skills!  
+  <br><br>
+  ---
+  <br><br>
+  ## 🌟 Featured Projects  
+  Here are some of my key projects:  
+  <br><br>
+</p>
 
-###
+| **Project**                          | **Description**                               | **Live Demo**                                            |  
+|------------------------------------|-----------------------------------------------|---------------------------------------------------------|  
+| 🛒 **Shopping Cart App (VueJs)**   | A sleek app for managing your shopping cart.  | [Live Demo](https://guitarla-vue.vercel.app/)           |  
+| 🐾 **Veterinary Manager (VueJs)**  | An app to manage veterinary patients.         | [Live Demo](https://admin-pacientes-vue-ten.vercel.app/)|  
+| 💰 **Expense Manager (VueJs)**     | A web app for tracking personal expenses.     | [Live Demo](https://admin-gastos-vue-three.vercel.app/) |  
+| 💹 **Crypto Manager (VueJs)**      | An app to track cryptocurrency prices.        | [Live Demo](https://cripto-vue-six.vercel.app/)          |  
+
+---
+
+## 🛠️ Skills  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -87,27 +116,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="www.linkedin.com/in/juan-alfredo-gomez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/juan-alfredo-gomez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" height="25" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanGmz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JuanGmz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanGmz&locale=en&layout=compact&langs_count=5&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=JuanGmz&locale=en&mode=daily&theme=dracula&border_radius=5" alt="GitHub Streak" height="150" />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/JuanGmz/JuanGmz/output/pacman-contribution-graph.svg" />
 </picture>
-
-###
